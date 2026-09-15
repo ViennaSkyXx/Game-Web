@@ -1,0 +1,46 @@
+Objectives:
+Hashing.
+Rolebased-requirement.
+Flow:
+Register First.
+Login Second.
+Dashboard (Base on Admin/Employee).
+With Auto-Increment Account Number and not Editable.
+Requirements for password prompt differs to what is lacking.
+The Admin can see the Account Number.
+
+Registration: 
+ Create two account types: Admin and Employee. 
+ Each account will have an auto-increment account number, assigned automatically based on the 
+number of registered accounts. The account number may be displayed on the registration page but 
+cannot be modified (hide for edit). 
+ Encrypt passwords using MD5 hashing. 
+ Passwords must meet the following criteria: 
+o Match the "Password" and "Confirm Password" fields. If they do not match, display a 
+prompt: "Password inputs do not match." 
+o Contain 8-20 characters, including both letters and numbers. If the input does not meet this 
+requirement, display a prompt: "Password must contain letters, numbers, and be 8-20 
+characters long." 
+ Note: error will be base on the inputs of user. User must determine what 
+requirements for input of password does not met. 
+o If all conditions are met, the system should automatically proceed to the Login page. 
+Login Page: 
+ Allow all registered accounts to log in. 
+ The account number and password must match. If they do not, display a prompt: "Invalid 
+account number” or “Wrong password." 
+ Upon successful login, the system should redirect the user to the Dashboard, based on their access 
+level. 
+Dashboard: 
+ Admin Dashboard (2 pages): 
+o Display a welcome message: "Welcome, Admin <username>!" 
+o Manage Accounts: Show a table of registered users, including: 
+ Account Number 
+ First Name 
+ Last Name 
+ Username 
+ Password (encrypted) 
+ Employee Dashboard (1 page): 
+o Display a welcome message: "Welcome, <username>!" 
+ Logout Button: 
+o Redirects the user back to the Login page. 
+ Sample Dashboard

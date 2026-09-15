@@ -1,0 +1,75 @@
+Foreign
+
+Derick, W. (2020). Online Graduation Clearance System. 
+(B.Sc). Uganda Christian University Mbale University 
+College, Uganda. 
+
+Ardo, F. U. (2021). Online Clearance System. (B.Sc.). Baze 
+University, Abuja.
+
+Fakoya, J. T., Ajinaja, M.Q., Olaseide, O.O. and Johnson, 
+O.V. (2021). Design and Implementation of a Web-Based 
+SMS Notification Clearance System: A Case Study of Federal 
+Polytechnic Ille-Oluji, Ondo State.
+
+Kayaga, J., Nakkazi, J., Namigadde, E., Ngobi, P. N., Toko, 
+I., & Tumusiime, P. (2021). Digital clearance system for 
+graduating students in Makerere University. Makerere 
+University.
+ 
+Mashkoor, A., & Egyed, A. (2021). Evaluating the alignment 
+of sequence diagrams with system behavior. Procedia 
+Computer 
+Science.
+
+Oliha, F. (2020). Evaluating Usability of Academic Web 
+Portals for Clearance Services.  
+Radack, S. (2009). The system development life cycle (sdlc). 
+Retrieved from  
+Spinellis, D. (2006). Choosing a programming language. 
+IEEE software.
+
+GeeksforGeeks. (2026, January 13). SDLC models: Types, phases, and use. https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/
+
+Etikan, I., Musa, S. A., & Alkassim, R. S. (2016). Comparison of convenience sampling and purposive sampling. American Journal of Theoretical and Applied Statistics, 5(1), 1–4. https://www.researchgate.net/publication/359634247_Comparison_of_Convenience_Sampling_and_Purposive_Sampling
+
+Elsevier. (2024). Article 1877050924004587. ScienceDirect. https://www.sciencedirect.com/science/article/pii/S1877050924004587
+
+Alsaqqa, S., Sawalha, S., & Abdel-Nabi, H. (2020). Agile software development: Methodologies and trends. International Journal of Interactive Mobile Technologies, 14(11), 246–270. https://online-journals.org/index.php/i-jim/article/view/13269
+
+Local
+
+Daud, G. S. & Maguid, M. A. (2022). Secured cotabato city state polytechnic college 
+web-based student clearance system. https://doi.org/10.47175/rissj.v3i1.372
+
+Don Mariano Marcos Memorial State University (DMMMSU)
+Online Student Clearance System (OSCS)
+https://lakasa.dmmmsu.edu.ph/handle/123456789/155
+
+Cavite State University (CvSU-related HR system study)
+Centralized Human Resource Information System (employees)
+https://www.researchgate.net/publication/370581945_Development_of_a_Centralized_Human_Resource_Information_System_of_Cavite_State_University
+
+Online Clearance System (student-focused but widely cited in PH RRL)
+https://dissertations.mak.ac.ug/handle/20.500.12281/7999
+
+Makerere University (second clearance system version)
+https://dissertations.mak.ac.ug/handle/20.500.12281/6995
+
+Guimaras State University (employee + student applicability study)
+Electronic Clearance System with SMS Notification
+https://www.researchgate.net/publication/388910884_Electronic_Clearance_System_with_SMS_Notification_in_the_Case_of_Guimaras_State_University
+
+Philippine journal clearance system (multi-institution study)
+Online Student Clearance Management System (Philippines-based study)
+https://paper.researchbib.com/view/paper/387693
+
+Cavite State University Science High School IS thesis
+
+https://library.cvsu.edu.ph/cgi-bin/koha/opac-search.pl?q=an:%2222873%22
+
+Related: online student systems (clearance/information systems)
+
+Randwick International of Education and Linguistics. (2022). Article 372. Randwick International Science and Education Journal. https://www.randwickresearch.com/index.php/rissj/article/view/372
+
+https://www.researchgate.net/publication/357873562_Secured_Cotabato_City_State_Polytechnic_College_Web-Based_Student_Clearance_System
